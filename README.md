@@ -125,7 +125,7 @@ git clone https://github.com/giannis032/line-follower-robot.git
 cd line-follower-robot
 
 # 2. Άνοιξε το main.py στο Thonny IDE
-# 3. Σύνδεσε το Pico 2 μέσω USB
+# 3. Σύνδεσε το Pico μέσω USB
 # 4. Αντέγραψε το main.py στο Pico (Run → Upload current script)
 # 5. Τοποθέτησε το ρομπότ στη γραμμή & τρέξε
 ```
