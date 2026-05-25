@@ -17,7 +17,7 @@
 
 | Εξάρτημα | Μοντέλο / Περιγραφή |
 |---|---|
-| **Μικροελεγκτής** | Raspberry Pi Pico 2 |
+| **Μικροελεγκτής** | Raspberry Pi Pico |
 | **Driver Κινητήρων** | DRV8835 Dual Motor Driver Carrier |
 | **Τροφοδοτικό** | Pololu 5V 500mA Step-Down Voltage Regulator D24V5F5 |
 | **Αισθητήρες IR** | Waveshare Infrared Line Tracking Tracker Sensor |
