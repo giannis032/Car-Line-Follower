@@ -114,7 +114,7 @@ IR1: -2  |  IR2: -1  |  IR3: 0  |  IR4: +1  |  IR5: +2
 
 ### Προαπαιτούμενα
 - [Thonny IDE](https://thonny.org/) ή `mpremote`
-- Raspberry Pi Pico 2 με **MicroPython** firmware
+- Raspberry Pi Pico με **MicroPython** firmware
 
 ### Βήματα
 
@@ -154,7 +154,7 @@ cd line-follower-robot
 |---|---|
 | **Μάθημα** | Ενσωματωμένα Συστήματα |
 | **Γλώσσα** | MicroPython |
-| **Πλατφόρμα** | Raspberry Pi Pico 2 |
+| **Πλατφόρμα** | Raspberry Pi Pico |
 
 ---
 
