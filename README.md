@@ -1,7 +1,7 @@
 # 🤖 Line Follower Robot — Ενσωματωμένα Συστήματα
 
 > Εργασία για το μάθημα **Ενσωματωμένα Συστήματα**  
-> Υλοποίηση αυτόνομου ρομπότ παρακολούθησης γραμμής με **Raspberry Pi Pico 2** και έλεγχο **PD**
+> Υλοποίηση αυτόνομου ρομπότ παρακολούθησης γραμμής με **Raspberry Pi Pico** και έλεγχο **PD**
 
 ---
 
@@ -120,7 +120,7 @@ IR1: -2  |  IR2: -1  |  IR3: 0  |  IR4: +1  |  IR5: +2
 
 ```bash
 # 1. Κατέβασε το αποθετήριο
-git clone https://github.com/<username>/line-follower-robot.git
+git clone https://github.com/giannis032/line-follower-robot.git
 cd line-follower-robot
 
 # 2. Άνοιξε το main.py στο Thonny IDE
